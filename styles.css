@@ -57,6 +57,8 @@ body{
     font-weight: 500;
 }
 .city{
+    color: red;
+    text-align: start;
     font-size: 25px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
